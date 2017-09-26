@@ -1,0 +1,203 @@
+﻿{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=angel+of+mine&type=track&offset=0&limit=1",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+              },
+              "href": "https://api.spotify.com/v1/artists/6nzxy2wXs6tLgzEtqOkEi2",
+              "id": "6nzxy2wXs6tLgzEtqOkEi2",
+              "name": "Monica",
+              "type": "artist",
+              "uri": "spotify:artist:6nzxy2wXs6tLgzEtqOkEi2"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh"
+          },
+          "href": "https://api.spotify.com/v1/albums/6mIyViyBHV4eoQqI4JZByh",
+          "id": "6mIyViyBHV4eoQqI4JZByh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/8ec17af02797aa9b6354a41ecea4c1f35a22d4b5",
+              "width": 636
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ca79ac90f9891211ba8e69935ed40931f58f081a",
+              "width": 298
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/b40907d01779e8b5636fd133ba13f22201e5dc25",
+              "width": 64
+            }
+          ],
+          "name": "The Boy Is Mine",
+          "type": "album",
+          "uri": "spotify:album:6mIyViyBHV4eoQqI4JZByh"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+            },
+            "href": "https://api.spotify.com/v1/artists/6nzxy2wXs6tLgzEtqOkEi2",
+            "id": "6nzxy2wXs6tLgzEtqOkEi2",
+            "name": "Monica",
+            "type": "artist",
+            "uri": "spotify:artist:6nzxy2wXs6tLgzEtqOkEi2"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 250173,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USAR19800077"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1AM1o0mKbgAK5oMpY8B3Z7",
+        "id": "1AM1o0mKbgAK5oMpY8B3Z7",
+        "name": "Angel of Mine - Radio Mix",
+        "popularity": 60,
+        "preview_url": "https://p.scdn.co/mp3-preview/7959cec67ef0e5fb1ea39350970c601160624c79?cid=0b5e81971fea4ff3966c6b33b5c67995",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1AM1o0mKbgAK5oMpY8B3Z7"
+      }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/search?query=angel+of+mine&type=track&offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 442
+  }
+}
